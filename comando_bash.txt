@@ -1,4 +1,13 @@
-Vamos ve como funcionar
-Eee
-Legal
+ls> lista o que tem no diretório
 
+CD> muda de diretorio 
+ 
+PWD> ele mostra o caminho do diretório, exemplo /users/erinaldo/desktop
+
+".."volta
+
+CAT> exibir o conteúdo do arquivo
+
+RM> remove arquivo
+
+RM- rf remove de forma recursiva e comando git ou qualquer comando e arquivo

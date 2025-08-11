@@ -8,3 +8,7 @@ git add> ele sinalisa o que vai adiciona,meio que adiciona um arquivo que
 vai ser commitado.
 
 git commi -m> faz o commit do que estava para ser commitado
+
+Nano - usado pra editar (crie um outro arquivo por lá)
+
+Git log> mostra todo os arquivos commitado, todo percurso que eu fiz, ele mostra. 
