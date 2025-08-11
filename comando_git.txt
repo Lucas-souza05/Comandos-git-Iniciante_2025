@@ -1,0 +1,10 @@
+Git init > o comeco de tudo,ele cria um repo git na pasta atual,ele tipo 
+cria um negocio onde pode usa o git e seus comandos.
+
+git status> mostra como esta indo o trabalho (de cada arquivo) é bom pra 
+saber o que esta fazendo e oq falta.
+   
+git add> ele sinalisa o que vai adiciona,meio que adiciona um arquivo que 
+vai ser commitado.
+
+git commi -m> faz o commit do que estava para ser commitado
