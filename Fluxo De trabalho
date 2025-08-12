@@ -1,0 +1,11 @@
+FLUXO DE TRABALHO
+
+1> Criar o diretório
+2> Iniciar o git dentro do diretório criado (git init.)
+3> Editar ou criar arquivos.
+4> Git status
+5> git add um arquivo para "crimimitar" e pode "salvar"o arquivo.
+6>Git status
+7>Git comimit - m "mensagem"
+8>Git status
+9> Voltar para o passo 3
