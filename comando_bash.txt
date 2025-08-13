@@ -11,3 +11,6 @@ CAT> exibir o conteúdo do arquivo
 RM> remove arquivo
 
 RM- rf remove de forma recursiva e comando git ou qualquer comando e arquivo
+
+Mkdir + Nome da pasta
+                                                                                      
